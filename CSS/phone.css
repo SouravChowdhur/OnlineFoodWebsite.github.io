@@ -1,0 +1,12 @@
+
+
+
+/* Home Section */
+
+/* Services Section */
+#services{
+    flex-direction: column;
+}
+#services .box{
+    margin: 5px 0px;
+}
